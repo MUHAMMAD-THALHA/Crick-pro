@@ -1,0 +1,76 @@
+*{  
+  @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200;0,6..12,300;0,6..12,400;0,6..12,500;0,6..12,600;0,6..12,700;0,6..12,800;0,6..12,900;0,6..12,1000;1,6..12,200;1,6..12,300;1,6..12,400;1,6..12,500;1,6..12,600;1,6..12,700;1,6..12,800;1,6..12,900;1,6..12,1000&family=Orbitron:wght@400;500;600;700;800;900&display=swap');
+}
+    body{
+    background-image: url("https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/cricpro-bg.png");
+    overflow-x: hidden;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.logo{
+    position: relative;
+    left: 1600px;
+}
+table{
+    position: absolute;
+    padding: 10px;
+    top: 250px;
+    left: 300px;
+    border-collapse: collapse;
+    justify-content: space-between;
+    width: max-content;
+    background-color: white;
+}
+strong{
+    font-size: xx-large;
+    font-weight: bolder;
+    position: absolute;
+    top: 140px;
+    left: 300px;
+}
+p{
+    position: absolute;
+    left: 300px;
+    top: 180px;
+    font-size: x-large;
+}
+footer{
+    position: absolute;
+    top: 750px;
+    left: 650px;
+}
+#S{
+    color: rgb(56, 89, 240);
+}
+#o{
+    color:transparent;
+}
+#Yuvaraj{
+    color: rgb(56, 89, 240);
+}
+#T{
+    color: transparent;
+}
+#V{
+    color: rgb(56, 89, 240);
+}
+#G{
+    color: rgb(56, 89, 240);
+}
+#MS{
+    color: rgb(56, 89, 240);
+}
+#Sa{
+    color: rgb(56, 89, 240);
+}
+#Vi{
+    color:rgb(56, 89, 240);
+}
+.BAT{
+    color:black;
+    font-weight: bolder;
+}
+#INDIA{
+    background-color: red;
+    color: whitesmoke;
+}
